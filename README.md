@@ -1,4 +1,4 @@
-This is the example of bdd with allure report. We have focused on Allure reporting part in this example using behave framework using python.
+This is the example of bdd with allure report. We have focused on Allure reporting part in this example using behave framework of python.
 
 
 1. Install virtualenv package to create virtualenv
